@@ -1,16 +1,28 @@
-# islamic_app
+# 🌟 My Islam - Islamic App 🌟
 
-A new Flutter project.
+**My Islam** is a comprehensive Islamic app designed to assist Muslims in their daily spiritual and organizational needs. The app provides essential features such as **Quran display**, **prayer times**, and **daily task management** to help users stay connected to their faith.
 
-## Getting Started
+## ✨ Features
+- 📖 **Full Quran Display**: Read the entire Quran with a clear and user-friendly interface.
+- ⏰ **Accurate Prayer Times**: Get precise prayer timings based on your location.
+- 📅 **Daily Task Management**: Organize your day with a built-in to-do list for better productivity.
+- 🎨 **Beautiful UI**: A simple and elegant design that enhances the user experience.
+- 🌎 **Offline Support**: Access and manage tasks even without an internet connection.
 
-This project is a starting point for a Flutter application.
+## 🔧 Technologies Used
+- **Flutter**: Cross-platform mobile app framework.
+- **SQLite**: Local database for managing tasks.
 
-A few resources to get you started if this is your first Flutter project:
+## 👉 How to Use
+1. Install the app on your Android device.
+2. Allow necessary permissions for accurate prayer time calculation.
+3. Browse and read the **Holy Quran** effortlessly.
+4. Manage your **daily tasks** and stay organized.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Notes
+- The app is **ad-free** and designed to provide a smooth experience.
+- Ensure location services are enabled for accurate prayer times.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+👉 **Feel free to contribute and improve the app!**
+
+##Eng.Hussein Taha
